@@ -1,4 +1,5 @@
 <img width="1370" height="773" alt="image" src="https://github.com/user-attachments/assets/3b5fa33d-a852-4cf6-b01b-863df2344836" /># 📦 Supply Chain & Sales Data Analysis (Wide World Importers)
+<img width="1367" height="774" alt="image" src="https://github.com/user-attachments/assets/919af3df-dba4-4899-a8d3-21680333e0bb" />
 
 ## 🔍 Project Overview
 This project explores sales, inventory, and customer performance insights using the **Wide World Importers** dataset.
