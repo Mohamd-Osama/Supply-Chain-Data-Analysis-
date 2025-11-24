@@ -1,4 +1,4 @@
-# 📦 Supply Chain & Sales Data Analysis (Wide World Importers)
+<img width="1370" height="773" alt="image" src="https://github.com/user-attachments/assets/3b5fa33d-a852-4cf6-b01b-863df2344836" /># 📦 Supply Chain & Sales Data Analysis (Wide World Importers)
 
 ## 🔍 Project Overview
 This project explores sales, inventory, and customer performance insights using the **Wide World Importers** dataset.
@@ -46,3 +46,6 @@ The final output was a set of interactive **Power BI dashboards** that deliver a
 * `Data Pill Project.pbix`: The main Power BI Dashboard file.
 * `ETL Queries.sql`: SQL scripts used for data extraction and transformation.
 * `Documentation.docx`: Detailed project
+
+<img width="1370" height="773" alt="image" src="https://github.com/user-attachments/assets/8c5bdaed-f082-4b7f-b8b1-1fcf73d789f9" />
+
