@@ -47,5 +47,3 @@ The final output was a set of interactive **Power BI dashboards** that deliver a
 * `ETL Queries.sql`: SQL scripts used for data extraction and transformation.
 * `Documentation.docx`: Detailed project
 
-<img width="1370" height="773" alt="image" src="https://github.com/user-attachments/assets/8c5bdaed-f082-4b7f-b8b1-1fcf73d789f9" />
-
